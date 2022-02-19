@@ -7,7 +7,8 @@
 - 👯 I’m willing to learn with other creators and contribute open-source.
 - 🥅 2022 Goals: Becoming better than 2021
 - ⚡ Fun fact: I love to watch movies and documentaries, read books and listening to podcasts.
-- 😻 Check out the NFT collection I created: [CodeCats](https://opensea.io/collection/codecats?search[sortAscending]=true&search[sortBy]=PRICE&search[toggles][0]=BUY_NOW)
+- 💭 Ask me about VS Code | C/C++ | web-development | Salesforce | Game Programming. 
+- 😄 Pronouns : HE/His.
 
 ### Connect with me:
 
