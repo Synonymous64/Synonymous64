@@ -1,4 +1,4 @@
-# Hi there, I'm Prajwal - aka [Synonymous] 👋 
+#  Buenos dias, I'm Prajwal - aka [Synonymous] 👋 
 
 ## I'm a IT Student 👨‍🎓|| Tech enthusiast👨‍💻 || Keen learner ✨🧠
 ##           Nectophlie 🌃 || Cinephile 🍿🎬 || Techy Geek 🤓
@@ -12,7 +12,7 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](https://th.bing.com/th/id/R.96140b2bc2a8707f982d7bcbc1b06ab4?rik=qj9uqMGAb6PFBA&riu=http%3a%2f%2fwww.patchamhigh.brighton-hove.sch.uk%2fwp-content%2fuploads%2f2017%2f05%2ffacebook-logo-circle-new.png&ehk=xeDy9DfBxMHIeyLmSwZq8Cls8AmJ6jsQ3ls66ixZgIM%3d&risl=&pid=ImgRaw&r=0)](https://codestackr.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
