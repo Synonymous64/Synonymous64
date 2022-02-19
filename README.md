@@ -1,14 +1,4 @@
 #  Buenos dias, I'm Prajwal - aka [Synonymous] 👋 
-<style>
-    img{
-        border: 2px solid grey;
-    }
-    img:hover{
-        background-color: rgb(1, 200, 200);
-        transition: 2s;
-        
-    }
-</style>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synonymous64&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
 <img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="40%" alt="" align="right"> <br> 
 
