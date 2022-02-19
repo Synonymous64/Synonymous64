@@ -1,5 +1,7 @@
 #  Buenos dias, I'm Prajwal - aka [Synonymous] 👋 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=synonymous64&label=Profile%20views&color=0e75b6&style=flat" alt="synonymous64" /> </p>
+
 ## I'm a IT Student 👨‍🎓|| Tech enthusiast👨‍💻 || Keen learner ✨🧠
 ##           Nectophlie 🌃 || Cinephile 🍿🎬 || Techy Geek 🤓
 
