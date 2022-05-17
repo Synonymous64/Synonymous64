@@ -30,4 +30,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synonymous64&show_icons=true&locale=en" alt="synonymous64" /></p>
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+</div>
