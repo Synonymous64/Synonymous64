@@ -1,6 +1,6 @@
 #  Buenos dias, I'm Prajwal - aka [Synonymous] 👋 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=synonymous64&label=Profile%20views&color=0e75b6&style=flat" alt="coding" /> </p>
-<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="40%" alt="" align="right"> <br> 
+<img src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif" width="30%" alt="" align="right"> <br> 
 
 ## I'm a IT Student 👨‍🎓|| Tech enthusiast👨‍💻 || Keen learner ✨🧠
 ##           Nectophlie 🌃 || Cinephile 🍿🎬 || Techy Geek 🤓
@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to watch movies and documentaries, read books and listening to podcasts.
 - 💭 Ask me about VS Code | C/C++ | web-development | Salesforce | Game Programming. 
 - 😄 Pronouns : He/His.
-
+ <a href="https://app.daily.dev/Synonymous"><img src="https://api.daily.dev/devcards/a294638d0e2e4a53a4e3710c2d82727e.png?r=yme" width="20%" alt="Prajwal Urkude's Dev Card" align="right"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/synonymous64" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="synonymous64" height="30" width="40" /></a>
