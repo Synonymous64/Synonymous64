@@ -5,7 +5,7 @@
 ## I'm a IT Student 👨‍🎓|| Tech enthusiast👨‍💻 || Keen learner ✨🧠
 ##           Nectophlie 🌃 || Cinephile 🍿🎬 || Techy Geek 🤓
 
-- 🌱 I’m currently learning about Web-Development and praciticing CP.
+- 🌱 I’m currently learning about Web-Development and practicing CP.
 - 👯 I’m willing to learn with other creators and contribute open-source.
 - 🥅 2022 Goals: Becoming better than 2021
 - ⚡ Fun fact: I love to watch movies and documentaries, read books and listening to podcasts.
