@@ -9,7 +9,7 @@
 - 👯 I’m willing to learn with other creators and contribute open-source.
 - 🥅 2022 Goals: Becoming better than 2021
 - ⚡ Fun fact: I love to watch movies and documentaries, read books and listening to podcasts.
-- 💭 Ask me about VS Code | C/C++ | web-development | Salesforce | Game Programming. 
+- 💭 Ask me about VS Code | C/C++ | Java | Javascript | web-development | Salesforce | Game Programming. 
 - 😄 Pronouns : He/His.
  <a href="https://app.daily.dev/Synonymous"><img src="https://api.daily.dev/devcards/a294638d0e2e4a53a4e3710c2d82727e.png?r=yme" width="20%" alt="Prajwal Urkude's Dev Card" align="right"/></a>
 <h3 align="left">Connect with me:</h3>
