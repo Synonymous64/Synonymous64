@@ -32,5 +32,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=synonymous64&show_icons=true&locale=en" alt="synonymous64" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=synonymous64&" alt="synonymous64" /></p>
+
 
