@@ -11,7 +11,7 @@
 - ⚡ Fun fact: I love to watch movies and documentaries, reading books and listening to podcasts.
 - 💭 Ask me about VS Code | C/C++ | Java | Javascript | web-development | app-development | Game Programming. 
 - 😄 Pronouns : He/His.
- <a href="https://app.daily.dev/Synonymous"><img src="https://api.daily.dev/devcards/a294638d0e2e4a53a4e3710c2d82727e.png?r=yme" width="20%" alt="Prajwal Urkude's Dev Card" align="right"/></a>
+ <a href="https://app.daily.dev/synonymous"><img src="https://api.daily.dev/devcards/v2/stU3lUW7JmZz28atTODAJ.png?r=r6i&type=default" width="356" alt="Prajwal Urkude's Dev Card" align="right"/></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/synonymous64" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="synonymous64" height="30" width="40" /></a>
