@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning about Web-Development and practicing CP.
 - 👯 I’m willing to learn with other creators and contribute open-source.
-- 🥅 2024 Goals: Becoming better than 2023
+- 🥅 2025 Goals: Becoming better than 2024
 - ⚡ Fun fact: I love to watch movies and documentaries, reading books and listening to podcasts.
 - 💭 Ask me about VS Code | C/C++ | Java | Javascript | web-development | app-development | Game Programming. 
 - 😄 Pronouns : He/His.
