@@ -81,83 +81,70 @@ const prajwal: Developer = {
 
 ## 💼 Featured Projects
 
-<!-- Mobile-optimized: Stack vertically on small screens -->
-
-### 🏢 Multi-tenant SaaS Platform
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🏢 Multi-tenant SaaS Platform</h3>
 <div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Industrial_Project-FF6B6B?style=for-the-badge"/></a>
-</div>
-
-**White-labeled Agency Management Platform**
-
-Enterprise-grade multi-tenant SaaS enabling agencies to create & manage client web applications with subdomain isolation. Built with modern architecture for scalability.
-
-**Tech Stack:**
-<p align="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Industrial_Project-FF6B6B?style=for-the-badge"/></a>
+<p><strong>White-labeled Agency Platform</strong></p>
+<p>Enterprise multi-tenant SaaS enabling agencies to create & manage client web apps with subdomain isolation.</p>
+<p>
 <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma"/>
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat"/>
 </p>
-
----
-
-### 🤖 Prodigy AI
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Major_Project-4ECDC4?style=for-the-badge"/></a>
 </div>
-
-**Multi-modal AI Content Generation**
-
-5-module AI platform: conversation, code, image, video & music generation. Features emotional AI that replicates human behavior with advanced memory management.
-
-**Tech Stack:**
-<p align="center">
+</td>
+<td width="50%">
+<h3 align="center">🤖 Prodigy AI</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Major_Project-4ECDC4?style=for-the-badge"/></a>
+<p><strong>Multi-modal AI Generation</strong></p>
+<p>5-module AI platform: conversation, code, image, video & music. Features emotional AI with advanced memory.</p>
+<p>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai"/>
 </p>
-
----
-
-### ⛓️ BlockChat
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/Blockchain-95E1D3?style=for-the-badge"/></a>
 </div>
-
-**Decentralized Messaging DApp**
-
-Blockchain-powered real-time chat with smart contracts, MetaMask integration, friend management, and immutable message history on Ethereum.
-
-**Tech Stack:**
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">⛓️ BlockChat</h3>
+<div align="center">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Blockchain-95E1D3?style=for-the-badge"/></a>
+<p><strong>Decentralized Messaging</strong></p>
+<p>Blockchain chat with smart contracts, MetaMask, friend management & immutable history on Ethereum.</p>
+<p>
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity"/>
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum"/>
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
 </p>
-
----
-
-### 📚 Research Publication
-<div align="center">
-<a href="https://doi.org/10.1007/978-981-97-6675-8_45"><img src="https://img.shields.io/badge/Springer_Nature-0072E5?style=for-the-badge&logo=springer"/></a>
 </div>
-
-**Multi-domain Content Generation Using ML**
-
-Published at ICTIS 2024 - Research on AI-driven web development efficiency, comparing ML frameworks and their impact on development velocity & scalability.
-
-**Focus Areas:**
-<p align="center">
+</td>
+<td width="50%">
+<h3 align="center">📚 Research Paper</h3>
+<div align="center">
+<a href="https://doi.org/10.1007/978-981-97-6675-8_45" target="_blank"><img src="https://img.shields.io/badge/Springer_Nature-0072E5?style=for-the-badge&logo=springer"/></a>
+<p><strong>Multi-domain Content Gen</strong></p>
+<p>Published at ICTIS 2024 - AI-driven web dev efficiency, comparing ML frameworks & their impact on velocity.</p>
+<p>
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/AI_Research-8E44AD?style=flat"/>
 <img src="https://img.shields.io/badge/Web_Dev-4285F4?style=flat"/>
 </p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
