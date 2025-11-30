@@ -26,25 +26,32 @@
 
 ## 🎯 About Me
 
-<img align="right" alt="Coding" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<!-- Mobile-friendly: GIF removed on small screens via HTML -->
+<picture>
+  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 45%; height: auto;">
+</picture>
 
 ```typescript
 const prajwal: Developer = {
   location: "🇩🇪 Kaiserslautern, Germany",
   education: {
     current: "MS in Computer Science @ RPTU",
-    specialization: ["Software Engineering", "Intelligent Systems"],
-    previousDegree: "BTech IT (CGPA: 8.3 ≈ 1.8 German)",
+    specialization: [
+      "Software Engineering", 
+      "Intelligent Systems"
+    ],
+    previousDegree: "BTech IT (CGPA: 8.3)"
   },
   workExperience: [
-    "Open Source Contributor @ GirlScript SoC",
-    "Java Developer Intern @ LetsGrowMore",
-    "Salesforce & Web Dev Intern @ ITNetworkZ",
+    "Open Source @ GirlScript SoC",
+    "Java Dev Intern @ LetsGrowMore",
+    "Salesforce & Web @ ITNetworkZ",
     "Tech Head @ DiGITS IN-TECH"
   ],
   research: {
-    publication: "Springer Nature - ICTIS 2024",
-    topic: "Multi-domain Content Generation using ML",
+    publication: "Springer Nature ICTIS 2024",
+    topic: "Multi-domain Content Gen ML",
     doi: "10.1007/978-981-97-6675-8_45"
   },
   currentlyLearning: [
@@ -53,93 +60,105 @@ const prajwal: Developer = {
     "Machine Learning at Scale"
   ],
   achievements: [
-    "🥇 Google Cloud Arcade Premium Tier 2024",
-    "🏆 Google Cloud Gen AI Challenge Winner",
-    "💻 LeetCode Annual Award (99% streak)",
-    "🎖️ Top 25 @ Ode to Code Hackathon"
+    "🥇 Google Cloud Arcade 2024",
+    "🏆 Gen AI Challenge Winner",
+    "💻 LeetCode 99% streak",
+    "🎖️ Top 25 @ Ode to Code"
   ],
-  funFact: "I build SaaS platforms faster than I finish my coffee ☕",
-  languages: ["🇬🇧 English (C1)", "🇩🇪 Deutsch (A1)"],
-  lifePhilosophy: "Code with purpose, learn with passion 🚀"
+  funFact: "☕ Build SaaS faster than my coffee",
+  languages: ["🇬🇧 English (C1)", "🇩🇪 Deutsch (A1)"]
 };
 ```
 
 ### 🔥 What Drives Me
 
-- 🎓 **Academic Excellence**: Pursuing MS at RPTU Kaiserslautern with focus on AI & Software Engineering
-- 💼 **Professional Impact**: Built production-grade SaaS platforms serving real users
-- 📝 **Research Contribution**: Published researcher at Springer Nature on AI & ML
-- 🌟 **Community Leadership**: Organized hackathons, workshops, and mentored 100+ students
-- 🎯 **2025 Vision**: Contributing to cutting-edge research while building scalable systems
+- 🎓 **Academic Excellence**: MS at RPTU with AI & Software Engineering focus
+- 💼 **Professional Impact**: Built production-grade SaaS platforms
+- 📝 **Research**: Published researcher at Springer Nature on AI & ML
+- 🌟 **Community**: Organized hackathons & mentored 100+ students
+- 🎯 **2025 Vision**: Cutting-edge research + scalable systems
 
 ---
 
 ## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">🏢 Multi-tenant SaaS Platform</h3>
+<!-- Mobile-optimized: Stack vertically on small screens -->
+
+### 🏢 Multi-tenant SaaS Platform
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Industrial_Project-FF6B6B?style=for-the-badge"/></a>
-<p><strong>White-labeled Agency Management Platform</strong></p>
-<p>Enterprise-grade multi-tenant SaaS enabling agencies to create & manage client web applications with subdomain isolation. Built with modern architecture for scalability.</p>
-<p>
+<a href="#"><img src="https://img.shields.io/badge/Industrial_Project-FF6B6B?style=for-the-badge"/></a>
+</div>
+
+**White-labeled Agency Management Platform**
+
+Enterprise-grade multi-tenant SaaS enabling agencies to create & manage client web applications with subdomain isolation. Built with modern architecture for scalability.
+
+**Tech Stack:**
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma"/>
 <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat&logo=stripe"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat"/>
 </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">🤖 Prodigy AI</h3>
+
+---
+
+### 🤖 Prodigy AI
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Major_Project-4ECDC4?style=for-the-badge"/></a>
-<p><strong>Multi-modal AI Content Generation</strong></p>
-<p>5-module AI platform: conversation, code, image, video & music generation. Features emotional AI that replicates human behavior with advanced memory management.</p>
-<p>
+<a href="#"><img src="https://img.shields.io/badge/Major_Project-4ECDC4?style=for-the-badge"/></a>
+</div>
+
+**Multi-modal AI Content Generation**
+
+5-module AI platform: conversation, code, image, video & music generation. Features emotional AI that replicates human behavior with advanced memory management.
+
+**Tech Stack:**
+<p align="center">
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
 <img src="https://img.shields.io/badge/PlanetScale-000000?style=flat&logo=planetscale"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pinecone-000000?style=flat"/>
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai"/>
 </p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">⛓️ BlockChat</h3>
+
+---
+
+### ⛓️ BlockChat
 <div align="center">
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Blockchain-95E1D3?style=for-the-badge"/></a>
-<p><strong>Decentralized Messaging DApp</strong></p>
-<p>Blockchain-powered real-time chat with smart contracts, MetaMask integration, friend management, and immutable message history on Ethereum.</p>
-<p>
+<a href="#"><img src="https://img.shields.io/badge/Blockchain-95E1D3?style=for-the-badge"/></a>
+</div>
+
+**Decentralized Messaging DApp**
+
+Blockchain-powered real-time chat with smart contracts, MetaMask integration, friend management, and immutable message history on Ethereum.
+
+**Tech Stack:**
+<p align="center">
 <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity"/>
 <img src="https://img.shields.io/badge/Hardhat-FFF100?style=flat"/>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum"/>
 <img src="https://img.shields.io/badge/MetaMask-F6851B?style=flat&logo=metamask&logoColor=white"/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs"/>
 </p>
-</div>
-</td>
-<td width="50%">
-<h3 align="center">📚 Research Paper</h3>
+
+---
+
+### 📚 Research Publication
 <div align="center">
-<a href="https://doi.org/10.1007/978-981-97-6675-8_45" target="_blank"><img src="https://img.shields.io/badge/Springer_Nature-0072E5?style=for-the-badge&logo=springer"/></a>
-<p><strong>Multi-domain Content Generation</strong></p>
-<p>Published at ICTIS 2024 - Research on AI-driven web development efficiency, comparing ML frameworks and their impact on development velocity & scalability.</p>
-<p>
+<a href="https://doi.org/10.1007/978-981-97-6675-8_45"><img src="https://img.shields.io/badge/Springer_Nature-0072E5?style=for-the-badge&logo=springer"/></a>
+</div>
+
+**Multi-domain Content Generation Using ML**
+
+Published at ICTIS 2024 - Research on AI-driven web development efficiency, comparing ML frameworks and their impact on development velocity & scalability.
+
+**Focus Areas:**
+<p align="center">
 <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow"/>
 <img src="https://img.shields.io/badge/AI_Research-8E44AD?style=flat"/>
 <img src="https://img.shields.io/badge/Web_Dev-4285F4?style=flat"/>
 </p>
-</div>
-</td>
-</tr>
-</table>
 
 ---
 
@@ -231,14 +250,21 @@ const prajwal: Developer = {
 
 ## 📊 GitHub Analytics
 
+<!-- Mobile-friendly: Stack vertically on small screens -->
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=synonymous64&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=synonymous64&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=synonymous64&show_icons=true&count_private=true&hide_border=true&title_color=6366f1&icon_color=818cf8&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
 </div>
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synonymous64&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook" />
-  <img width="49%" height="195px" src="https://github-readme-activity-graph.vercel.app/graph?username=synonymous64&bg_color=0d1117&color=6366f1&line=818cf8&point=a78bfa&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=synonymous64&theme=react&hide_border=true&background=0D1117&stroke=0D1117&ring=6366f1&fire=818cf8&currStreakLabel=818cf8" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=synonymous64&layout=compact&hide_border=true&title_color=6366f1&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide=jupyter%20notebook" />
+</div>
+
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=synonymous64&bg_color=0d1117&color=6366f1&line=818cf8&point=a78bfa&area=true&hide_border=true" />
 </div>
 
 <div align="center">
@@ -249,10 +275,6 @@ const prajwal: Developer = {
 
 ## 🏆 Achievements & Recognition
 
-<table>
-<tr>
-<td width="50%">
-
 ### 🎖️ Awards & Honors
 - 🥇 **Google Cloud Arcade Premium Tier** - Cohort 2024
 - 🏆 **Google Cloud Gen AI Challenge Winner** - Exclusive Recognition
@@ -260,19 +282,12 @@ const prajwal: Developer = {
 - 🎯 **Top 25 @ Ode to Code Hackathon** - Out of 200+ participants
 - 📜 **Published Researcher** - Springer Nature ICTIS 2024
 
-</td>
-<td width="50%">
-
 ### 💼 Professional Experience
 - 🌟 **Open Source Contributor** - GirlScript Summer of Code
 - 👨‍💼 **Technical Head** - DiGITS IN-TECH (1+ Year)
 - ☕ **Java Developer Intern** - LetsGrowMore
 - 💼 **Salesforce & Web Dev Intern** - ITNetworkZ
 - 🎤 **Campus Ambassador** - Tech Events & Workshops
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -285,18 +300,10 @@ const prajwal: Developer = {
 
 <br/>
 
-<a href="https://leetcode.com/u/Synonymous/" target="_blank">
-  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-</a>
-<a href="https://www.codechef.com/users/synonymous_12" target="_blank">
-  <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/>
-</a>
-<a href="https://www.hackerrank.com/prajwalurkude007" target="_blank">
-  <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
-</a>
-<a href="https://stackoverflow.com/users/17541891" target="_blank">
-  <img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/>
-</a>
+<a href="https://leetcode.com/u/Synonymous/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://www.codechef.com/users/synonymous_12"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://www.hackerrank.com/prajwalurkude007"><img src="https://img.shields.io/badge/-HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/></a>
+<a href="https://stackoverflow.com/users/17541891"><img src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>
 
 </div>
 
@@ -307,7 +314,9 @@ const prajwal: Developer = {
 <div align="center">
 
 <a href="https://prajportfolio.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-6366f1?style=for-the-badge"/></a>
+
 <a href="mailto:prajwalurkude007@gmail.com"><img src="https://img.shields.io/badge/📧_Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
 <a href="https://linkedin.com/in/prajwal-urkude-8a1b6818b"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin"/></a>
 
 <br/><br/>
@@ -348,7 +357,10 @@ const prajwal: Developer = {
 
 ### 📌 Currently Available For
 
-✅ Full-Stack Development Projects | ✅ AI/ML Research Collaborations | ✅ Open Source Contributions | ✅ Technical Consulting
+✅ Full-Stack Development Projects  
+✅ AI/ML Research Collaborations  
+✅ Open Source Contributions  
+✅ Technical Consulting
 
 <br/>
 
