@@ -26,47 +26,46 @@
 
 ## 🎯 About Me
 
-<!-- Mobile-friendly: GIF removed on small screens via HTML -->
-<picture>
-  <source media="(min-width: 768px)" srcset="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-  <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 45%; height: auto;">
-</picture>
+<div align="center">
+  <img alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style="max-width: 100%; height: auto; margin-bottom: 20px;">
+</div>
 
 ```typescript
 const prajwal: Developer = {
   location: "🇩🇪 Kaiserslautern, Germany",
   education: {
-    current: "MS in Computer Science @ RPTU",
+    current: "MS Computer Science @ RPTU",
     specialization: [
-      "Software Engineering", 
+      "Software Engineering",
       "Intelligent Systems"
     ],
-    previousDegree: "BTech IT (CGPA: 8.3)"
+    previous: "BTech IT (8.3 CGPA)"
   },
-  workExperience: [
+  work: [
     "Open Source @ GirlScript SoC",
-    "Java Dev Intern @ LetsGrowMore",
-    "Salesforce & Web @ ITNetworkZ",
+    "Java Dev @ LetsGrowMore",
+    "Salesforce @ ITNetworkZ",
     "Tech Head @ DiGITS IN-TECH"
   ],
   research: {
-    publication: "Springer Nature ICTIS 2024",
-    topic: "Multi-domain Content Gen ML",
-    doi: "10.1007/978-981-97-6675-8_45"
+    publication: "Springer Nature",
+    conference: "ICTIS 2024",
+    topic: "Multi-domain Content Gen",
+    doi: "10.1007/978-981-97-..."
   },
-  currentlyLearning: [
-    "Advanced Software Engineering",
+  learning: [
+    "Software Engineering",
     "Distributed Systems",
-    "Machine Learning at Scale"
+    "ML at Scale"
   ],
   achievements: [
     "🥇 Google Cloud Arcade 2024",
     "🏆 Gen AI Challenge Winner",
-    "💻 LeetCode 99% streak",
-    "🎖️ Top 25 @ Ode to Code"
+    "💻 LeetCode 99% Streak",
+    "🎖️ Top 25 Ode to Code"
   ],
-  funFact: "☕ Build SaaS faster than my coffee",
-  languages: ["🇬🇧 English (C1)", "🇩🇪 Deutsch (A1)"]
+  funFact: "Build SaaS faster than ☕",
+  languages: ["🇬🇧 English", "🇩🇪 Deutsch"]
 };
 ```
 
